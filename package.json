@@ -1,0 +1,18 @@
+{
+  "name": "data-structure-js",
+  "version": "1.0.0",
+  "description": "realize common data structure by js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "devDependencies": {
+    "babel-jest": "^23.2.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.2.0"
+  },
+  "author": {
+    "name": "whyang"
+  },
+  "license": "ISC"
+}
